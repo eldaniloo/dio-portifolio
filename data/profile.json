@@ -1,0 +1,86 @@
+{
+  "name": "Danilo O Melo",
+  "photo": "https://avatars.githubusercontent.com/u/108435825?v=4",
+  "job": "Front End Developer",
+  "location": "São Paulo - SP",
+  "phone": "(11) 94705-1819",
+  "email": "odanilo1227@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/react.png"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/nodejs.png"
+      },
+      {
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/css.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/eldaniloo/dio-portifolio/main/dio-portfolio/data/imgs/github.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Facilidade de comunicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português-BR (nativo)",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Jogo web de matar mosquistos, com JavaScript. Feito juntamente com curso Udemy",
+      "url": "https://github.com/eldaniloo/mata-mosquito",
+      "github": true
+    },
+    {
+      "name": "Gerador de senhas com JavaScript",
+      "url": "https://github.com/eldaniloo/gerador-senhas",
+      "github": true
+    },
+    {
+      "name": "Landing page burguer projeto pessoal feito com HTML, CSS e Bootstrap",
+      "url": "https://github.com/eldaniloo/site-burguer",
+      "github": true
+    },
+    {
+      "name": "Tela de login com HTML e CSS",
+      "url": "https://github.com/eldaniloo/tela-login",
+      "github": true
+    }
+  ],
+  "education": [
+      {
+        "name": "Tecnologo - Análise e Desenvolvimento de Sistemas",
+        "school": "Fac Carlos Drummond de Andrade",
+        "period": "2021 - Cursando"
+      },
+      {
+        "name": "Técnico - Infórmatica",
+        "school": "EasyComp",
+        "period": "2012 - 2014"
+      },
+      {
+        "name": "Técnico - Desing Gráfico",
+        "school": "EasyComp",
+        "period": "2012 - 2014"
+      }
+  ]
+}
